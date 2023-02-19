@@ -1,2 +1,2 @@
-please run the following command :
+please run the following command : uvicorn index:app --reload
 along with mongod server
